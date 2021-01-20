@@ -1,0 +1,22 @@
+{
+  "name": "signistry",
+  "version": "0.0.1",
+  "description": "Signistry is a web app made for schools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrthomas20121/signistry.git"
+  },
+  "keywords": [
+    "Signistry"
+  ],
+  "author": "Mrthomas20121",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mrthomas20121/signistry/issues"
+  },
+  "homepage": "https://github.com/Mrthomas20121/signistry#readme"
+}
