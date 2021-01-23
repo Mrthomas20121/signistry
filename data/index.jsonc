@@ -1,0 +1,6 @@
+{
+    "html": {
+        "head": "{path}/data/head.jsonc",
+        "body": "{path}/data/body.jsonc"
+    }
+}

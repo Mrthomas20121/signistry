@@ -1,0 +1,7 @@
+{
+    // app path
+    "path": "{home}/library",
+    "libraries": {
+        "json": "{path}/json:index.jsonc"
+    }
+}

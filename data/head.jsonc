@@ -1,0 +1,14 @@
+{
+    // css dependencies. *.css will load anything .css in the coresponding folder
+    "css_dependencies": "{path}/data/css:*.css",
+
+    // elements to add inside <head></head>
+    "elements": [
+        {
+            "name": "script",
+            "data": {
+                "src": "{path}/index.js"
+            }
+        }
+    ]
+}

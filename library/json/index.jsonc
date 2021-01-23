@@ -1,0 +1,14 @@
+{
+    "_override": {
+        // override path for this module
+        "path": "{super.path}/json"
+    },
+
+    "name": "jsonhtml",
+
+    // main file for this module
+    "main_file": "{path}:main.js",
+
+    // no dependencies
+    "dependencies": []
+}
